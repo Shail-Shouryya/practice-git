@@ -1,2 +1,5 @@
 This is line 1.
 This is line 2 in branch B
+This is line 2 in branch C
+This is line 2 in branch A
+This is line 2 in branch master
