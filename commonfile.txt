@@ -1,7 +1,6 @@
 This file is to be present in all branches.
 
 The second line of text comes after a line break.
-
 The third line of text also comes after a line break.
 
 The fourth line of text comes after 3 line breaks.
