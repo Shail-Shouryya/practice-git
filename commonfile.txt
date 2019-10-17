@@ -9,3 +9,5 @@ This is the fifth line.
 This is the sixth line.
 This is the seventh line.
 Added this line after deleting 2 line breaks between the third and fourth line and adding a newline after this line.
+
+Added this line after adding a newline after "Added this line after deleting 2 line breaks between the third and fourth line and adding a newline after this line," and added a newline after this.
