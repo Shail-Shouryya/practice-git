@@ -1,5 +1,5 @@
 This file is to be present in all branches.
-Added this line in branch A.
+
 The second line of text comes after a line break.
 Added this line in branch B, but there is still a line break between the first line and the line right before this line at the time I modified this.
 The third line of text also comes after a line break.
