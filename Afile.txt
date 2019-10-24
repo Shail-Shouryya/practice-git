@@ -1,5 +1,5 @@
 This file is present in branch A.
-This line will be merged into master but then modified and pushed again.
+This line was changed in branch A, with no other changes anywhere else in the file. This was then pushed to branch A, a pull request was made to merge into master, and then merged. Branch B will not pull this change, will make changes to the file (twice), then try to rebase the first commit. This is a test to see if there will be rebase conflicts due to the merge.s
 This line will be merged into master with no further changes.
 This line will also be merged into master with no further changes.
 This line will be modified in another branch, but the other branch will not modify any other lines.
