@@ -2,5 +2,5 @@ This file is present in branch A.
 This line will be merged into master but then modified and pushed again.
 This line will be merged into master with no further changes.
 This line will also be merged into master with no further changes.
-This line was modified in another branch.
+This line was modified in another branch. This sentence was added in a second change and commit in that branch.
 This is to test to see if changes in one file will cause conflicts if merged to master when trying to rebase from another branch that doesn't have the same changes - even if the changes in that branch don't conflict.
