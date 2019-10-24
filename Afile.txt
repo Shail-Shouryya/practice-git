@@ -1,1 +1,1 @@
-This file is present in branch A and no other branches.
+This file is present in branch A.
