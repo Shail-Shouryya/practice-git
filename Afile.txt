@@ -1,1 +1,6 @@
 This file is present in branch A.
+This line will be merged into master but then modified and pushed again.
+This line will be merged into master with no further changes.
+This line will also be merged into master with no further changes.
+This line will be modified in another branch, but the other branch will not modify any other lines.
+This is to test to see if changes in one file will cause conflicts if merged to master when trying to rebase from another branch that doesn't have the same changes - even if the changes in that branch don't conflict.
