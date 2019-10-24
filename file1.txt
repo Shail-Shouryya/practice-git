@@ -2,5 +2,5 @@ This is line 1.
 This is line 2 in branch B
 This is line 2 in branch C
 This is line 2 in branch A
-Modified line in branch C. Will try to push directly to master with git push origin master (instead of git push origin C).
+Modified line in branch C. Will try to push directly to master with git push origin master (instead of git push origin C). Nothing happened when trying to push directly into master from branch C: `Everything up-to-date`
 This is line 2 in branch master
