@@ -11,3 +11,14 @@ This is the seventh line.
 Added this line after deleting 2 line breaks between the third and fourth line and adding a newline after this line.
 
 Added this line after adding a newline after "Added this line after deleting 2 line breaks between the third and fourth line and adding a newline after this line," and added a newline after this.
+Added this line while:
+Note: checking out 'HEAD~2'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by performing another checkout.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -b with the checkout command again. Example:
+
+  git checkout -b <new-branch-name>
