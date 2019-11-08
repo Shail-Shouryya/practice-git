@@ -22,3 +22,4 @@ If you want to create a new branch to retain commits you create, you may
 do so (now or later) by using -b with the checkout command again. Example:
 
   git checkout -b <new-branch-name>
+Adding line after "git checkout -b <new-branch-name>" but before message about detached.
