@@ -27,3 +27,4 @@ Adding line after "git checkout -b <new-branch-name>" but before message about d
 So the above overwrote changes I made before going into detached mode, messed something up.
 
 Rollback point
+Revert line1
