@@ -28,4 +28,3 @@ So the above overwrote changes I made before going into detached mode, messed so
 
 Rollback point
 Revert line1
-Revert line2
