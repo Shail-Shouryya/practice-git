@@ -31,3 +31,4 @@ Need to revert commits backwards from most recent commit to oldest commit to avo
 
 Adding lines in other branch that
 will be included in a PR
+and a merge request will be made, but the PR will be closed without merging and then the commits will be cherry picked from the PR into master directly
