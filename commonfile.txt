@@ -28,3 +28,5 @@ So the above overwrote changes I made before going into detached mode, messed so
 
 Rollback point
 Need to revert commits backwards from most recent commit to oldest commit to avoid conflicts in file from reverting things (due to reverting to an older point having things that a more recent commit doesn't have, so revert is "undoing" more than "1 commit")
+
+Adding lines in other branch that
