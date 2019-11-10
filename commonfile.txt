@@ -27,4 +27,10 @@ Adding line after "git checkout -b <new-branch-name>" but before message about d
 So the above overwrote changes I made before going into detached mode, messed something up.
 
 Rollback point
+
 Need to revert commits backwards from most recent commit to oldest commit to avoid conflicts in file from reverting things (due to reverting to an older point having things that a more recent commit doesn't have, so revert is "undoing" more than "1 commit")
+
+Adding lines in other branch that
+will be included in a PR
+and a merge request will be made, but the PR will be closed without merging and then the commits will be cherry picked from the PR into master directly
+
