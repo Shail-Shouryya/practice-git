@@ -34,3 +34,4 @@ Adding lines in other branch that
 will be included in a PR
 and a merge request will be made, but the PR will be closed without merging and then the commits will be cherry picked from the PR into master directly
 
+Adding a line that will be pushed to branch A and merged from a PR, but then the PR will be reverted.
