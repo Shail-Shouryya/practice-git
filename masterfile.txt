@@ -2,3 +2,4 @@ This is line 1
 This is line 2
 Added to line 3
 Added another line after line 3
+Added another line after merging PR to add a commit to log before reverting the PR.
