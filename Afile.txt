@@ -6,3 +6,4 @@ This line was modified in another branch. This sentence was added in a second ch
 This is to test to see if changes in one file will cause conflicts if merged to master when trying to rebase from another branch that doesn't have the same changes - even if the changes in that branch don't conflict.
 
 Commit 1 to be squashed
+Commit 2 to be squashed
