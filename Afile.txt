@@ -8,3 +8,4 @@ This is to test to see if changes in one file will cause conflicts if merged to 
 Commit 1 to be squashed
 Commit 2 to be squashed
 Commit 3 to be squashed
+Commit 4 to be squashed
