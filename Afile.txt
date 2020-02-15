@@ -9,3 +9,5 @@ Commit 1 to be squashed
 Commit 2 to be squashed
 Commit 3 to be squashed
 Commit 4 to be squashed
+
+First in history, first after rebase
