@@ -3,3 +3,5 @@ This is line 2
 Added to line 3
 Added another line after line 3
 Added another line after merging PR to add a commit to log before reverting the PR.
+
+Added new line in master branch after adding new line in other branch.
