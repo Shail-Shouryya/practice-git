@@ -35,3 +35,5 @@ will be included in a PR
 and a merge request will be made, but the PR will be closed without merging and then the commits will be cherry picked from the PR into master directly
 
 Adding a line that will be pushed to branch A and merged from a PR, but then the PR will be reverted. The purpose of this is to see how reverting a commit affects commits and if all commits that were merged will also be reverted by reverting just the PR (and not individual commits from the PR); also a test to see if the same PR can be reopened after since the branch is usually deleted after merging a PR.
+
+Added new line!
