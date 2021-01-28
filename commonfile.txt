@@ -38,3 +38,4 @@ Adding a line that will be pushed to branch A and merged from a PR, but then the
 
 Added new line!
 Added another new line in other_branch (to be merge/rebased in PR AFTER there are other commits to master branch in the same time frame)
+Add another new line in other_branch (to be merge/rebased in PR AFTER there are other commits to master branch in the same time frame)
