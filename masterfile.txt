@@ -6,3 +6,5 @@ Added another line after merging PR to add a commit to log before reverting the 
 
 Added new line in master branch after adding new line in other branch.
 Added another new line in master branch after adding new line in other branch.
+
+First commit in master (before other_branch commit)
