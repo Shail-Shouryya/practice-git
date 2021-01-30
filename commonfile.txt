@@ -41,3 +41,4 @@ Added another new line in other_branch (to be merge/rebased in PR AFTER there ar
 Add another new line in other_branch (to be merge/rebased in PR AFTER there are other commits to master branch in the same time frame)
 
 First commit in other_branch (after master commit)
+Secomd commit in other_branch (after second commit in master)
